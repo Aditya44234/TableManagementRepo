@@ -1,0 +1,36 @@
+// Static dummy data
+const initialData = [
+    { id: 1, name: "Liam Johnson", email: "liam.johnson@example.com", role: "Admin", status: "Active", date: "2023-10-25" },
+    { id: 2, name: "Olivia Smith", email: "olivia.smith@example.com", role: "Editor", status: "Active", date: "2023-11-02" },
+    { id: 3, name: "Noah Williams", email: "noah.williams@example.com", role: "Viewer", status: "Inactive", date: "2023-09-15" },
+    { id: 4, name: "Emma Brown", email: "emma.brown@example.com", role: "Editor", status: "Active", date: "2023-12-01" },
+    { id: 5, name: "Ava Jones", email: "ava.jones@example.com", role: "Admin", status: "Active", date: "2023-10-10" },
+    { id: 6, name: "Elijah Garcia", email: "elijah.garcia@example.com", role: "Viewer", status: "Inactive", date: "2023-11-20" },
+    { id: 7, name: "Sophia Miller", email: "sophia.miller@example.com", role: "Editor", status: "Active", date: "2023-08-30" },
+    { id: 8, name: "Lucas Davis", email: "lucas.davis@example.com", role: "Viewer", status: "Active", date: "2023-12-05" },
+    { id: 9, name: "Isabella Rodriguez", email: "isabella.rodriguez@example.com", role: "Admin", status: "Inactive", date: "2023-09-05" },
+    { id: 10, name: "Mason Martinez", email: "mason.martinez@example.com", role: "Editor", status: "Active", date: "2023-11-12" },
+    { id: 11, name: "Mia Hernandez", email: "mia.hernandez@example.com", role: "Viewer", status: "Active", date: "2023-10-18" },
+    { id: 12, name: "Ethan Lopez", email: "ethan.lopez@example.com", role: "Admin", status: "Active", date: "2023-12-10" },
+    { id: 13, name: "Harper Gonzalez", email: "harper.gonzalez@example.com", role: "Editor", status: "Inactive", date: "2023-09-22" },
+    { id: 14, name: "James Wilson", email: "james.wilson@example.com", role: "Viewer", status: "Active", date: "2023-11-05" },
+    { id: 15, name: "Evelyn Anderson", email: "evelyn.anderson@example.com", role: "Admin", status: "Active", date: "2023-10-01" },
+    { id: 16, name: "Benjamin Thomas", email: "benjamin.thomas@example.com", role: "Editor", status: "Inactive", date: "2023-12-15" },
+    { id: 17, name: "Charlotte Taylor", email: "charlotte.taylor@example.com", role: "Viewer", status: "Active", date: "2023-08-25" },
+    { id: 18, name: "Alexander Moore", email: "alexander.moore@example.com", role: "Admin", status: "Active", date: "2023-11-28" },
+    { id: 19, name: "Amelia Jackson", email: "amelia.jackson@example.com", role: "Editor", status: "Active", date: "2023-10-15" },
+    { id: 20, name: "Henry Martin", email: "henry.martin@example.com", role: "Viewer", status: "Inactive", date: "2023-09-10" },
+    { id: 21, name: "Abigail Lee", email: "abigail.lee@example.com", role: "Admin", status: "Active", date: "2023-12-20" },
+    { id: 22, name: "Sebastian Perez", email: "sebastian.perez@example.com", role: "Editor", status: "Active", date: "2023-11-08" },
+    { id: 23, name: "Emily Thompson", email: "emily.thompson@example.com", role: "Viewer", status: "Inactive", date: "2023-10-05" },
+    { id: 24, name: "Jack White", email: "jack.white@example.com", role: "Admin", status: "Active", date: "2023-09-18" },
+    { id: 25, name: "Avery Harris", email: "avery.harris@example.com", role: "Editor", status: "Active", date: "2023-12-08" },
+    { id: 26, name: "Daniel Sanchez", email: "daniel.sanchez@example.com", role: "Viewer", status: "Active", date: "2023-11-15" },
+    { id: 27, name: "Sofia Clark", email: "sofia.clark@example.com", role: "Admin", status: "Inactive", date: "2023-10-22" },
+    { id: 28, name: "Matthew Ramirez", email: "matthew.ramirez@example.com", role: "Editor", status: "Active", date: "2023-09-28" },
+    { id: 29, name: "Ella Lewis", email: "ella.lewis@example.com", role: "Viewer", status: "Active", date: "2023-12-12" },
+    { id: 30, name: "Jackson Robinson", email: "jackson.robinson@example.com", role: "Admin", status: "Active", date: "2023-11-25" },
+]
+
+
+export default initialData
